@@ -1,4 +1,4 @@
-# Detecting- Covid19-CXR-and-CT-images-using-Deep-Learning-and-Python
+# Detecting- Covid19-CXR-and-CT-images-using-Deep-Learning
 
 Detecting and Classifying CT and CXR Covid-19 iamges using Deep Learning and more precisly with the use of Python programming languages along its libraries and frameworks TensorFlow, Keras API, numpy, pandas, matplot, confusion matrix and more.
 
